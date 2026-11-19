@@ -1,0 +1,6 @@
+{
+  "name": "GatePulse",
+  "description": "Developer-first Webhook & Event Ingestion SaaS with a 6-layer API Security Gateway, anti-SSRF endpoint registry, asynchronous retry dispatcher, and interactive developer console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
